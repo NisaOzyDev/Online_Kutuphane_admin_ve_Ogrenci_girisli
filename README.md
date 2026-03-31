@@ -27,8 +27,19 @@ Bu proje, bir kütüphanenin dijital yönetim süreçlerini simüle eden, **Admi
 * **Kitap Listeleme:** Kütüphanedeki tüm kitapları görüntüleme.
 * **Arama & Filtreleme:** Kitap adına veya yazara göre hızlı arama.
 
----
+* ##  Ekran Görüntüleri
 
+**Giriş Ekranı:**
+![Giriş Ekranı](images/1.png)
+
+**Admin Paneli:**
+![Admin Paneli](images/Admin.png)
+**Kullanıcı Paneli:**
+![Kullanıcı Paneli](images/Kullanici.png)
+**Güncelle-Sil Paneli:**
+![Güncelle-Sil Paneli](images/guncelle_sil.png)
+
+---
 ##  Kurulum ve Çalıştırma
 
 1.  **Projeyi Klonlayın:**
